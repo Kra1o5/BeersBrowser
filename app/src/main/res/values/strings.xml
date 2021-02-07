@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Beers Browser</string>
+    <string name="search_tittle">Search a Beer</string>
+    <string name="connection_issues">Connection Error!</string>
+    <string name="product_description_body">Body Description</string>
+    <string name="product_name">Beer Name</string>
+    <string name="product_name_contentdesc">This is a Beer Product image</string>
+    <string name="product_gen_name_contentdesc">This is a Generic Beer Image</string>
+    <string name="product_abv_contentdesc">This is a ABV Beer Image</string>
+    <string name="product_abv">ABV</string>
+    <string name="product_description">Description</string>
+    <string name="detail_tittle">Product details</string>
+</resources>
